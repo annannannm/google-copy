@@ -1,0 +1,29 @@
+.logo {
+    display: flex;
+    justify-content: center; 
+    align-items:center; 
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.logo img{ max-width: 200px;}
+
+.search{
+    display: flex;
+    justify-content: center; 
+    align-items:center; 
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+
+input{width:200px ;
+}
+
+#gmail{
+    display: flex;
+    padding-left: 85%;
+}
+
+
